@@ -1,0 +1,18 @@
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.todo-item p {
+  color: #333;
+}
+
+.todo-list {
+  max-width: 400px;
+  margin: auto;
+}
+
+input {
+  margin-right: 10px;
+}

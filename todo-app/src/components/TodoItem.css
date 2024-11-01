@@ -1,0 +1,11 @@
+.todo-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .recurrence-info {
+    font-style: italic; /* Italicize the recurrence text */
+    color: #888; /* Light gray color for the recurrence text */
+    margin-left: 5px; /* Add some space between the task text and recurrence */
+  }
